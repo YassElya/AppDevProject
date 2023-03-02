@@ -1,0 +1,90 @@
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.FinalProjectForm.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.OrderForm.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.AboutUsForm.resources
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final_Project.AboutUsForm.resources
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final_Project.FinalProjectForm.resources
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final_Project.OrderForm.resources
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Owner\Downloads\Final_Project\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\obj\Debug\Final_Project.AboutUsForm.resources
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\obj\Debug\Final_Project.FinalProjectForm.resources
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\obj\Debug\Final_Project.OrderForm.resources
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\2073543\Downloads\ApplicationDevelopmentPorject\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Admin\Downloads\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Admin\Downloads\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Admin\Downloads\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final_Project.AboutUsForm.resources
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final_Project.FinalProjectForm.resources
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final_Project.OrderForm.resources
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final_Project.CartForm.resources
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Final Project\Final Project\obj\Debug\Final_Project.detailsForm.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.CartForm.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\bin\Debug\FinalProjectDatabase.mdf
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\bin\Debug\FinalProjectDatabase_log.ldf
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\bin\Debug\en\Final Project.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.FinalProjectForm.en.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\en\Final Project.resources.dll
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.ColdDrinkForm.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.HotDrinksForm.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.BreakFastForm.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.DessertForm.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.LunchForm.resources
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.PaymentForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\bin\Debug\FinalProjectDatabase.mdf
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\bin\Debug\FinalProjectDatabase_log.ldf
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\bin\Debug\en\Final Project.resources.dll
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.AboutUsForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.BreakFastForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.CartForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.ColdDrinkForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.DessertForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.FinalProjectForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.HotDrinksForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.LunchForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.OrderForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.PaymentForm.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final_Project.FinalProjectForm.en.resources
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\en\Final Project.resources.dll
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\yasse\OneDrive\Bureau\Cégep Vanier\Visual Studio 2022\Final Project\Final Project\obj\Debug\Final Project.pdb
